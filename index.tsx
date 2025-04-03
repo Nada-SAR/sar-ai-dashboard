@@ -1,0 +1,1 @@
+export default function Home() { return <div className="text-white bg-black min-h-screen p-6">SAR-AI Dashboard is running!</div>; }
